@@ -1026,15 +1026,15 @@ nothing
 ### Economy Phase
 
 **Manipulation**
-    - SP (-5MP +1PP)
-    - TK (-5MP +1PP)
-    - FR (-9MP +1PP)
-    - GB (-5MP +1PP)
+- SP (-5MP +1PP)
+- TK (-5MP +1PP)
+- FR (-9MP +1PP)
+- GB (-5MP +1PP)
  
 **Ceding**
-    - Rhodos & Corsica back to Turkey
-    - TK: +2PP
-    - SP: -2PP
+- Rhodos & Corsica back to Turkey
+- TK: +2PP
+- SP: -2PP
     
 # 1808
 
@@ -1165,15 +1165,15 @@ nothing
 ## Economy Phase
 
 **Manipulation**
-	- TK (+1PP -5MP)
-	- FR (+1PP -9MP)
-	- AU (-2PP +5MP+15$)
-	- SP (+1PP -5MP)
+- TK (+1PP -5MP)
+- FR (+1PP -9MP)
+- AU (-2PP +5MP+15$)
+- SP (+1PP -5MP)
     
     
 **Ship Building**
-	- Sicily: Palermo
-    	- Holland: Amsterdam
+- Sicily: Palermo
+- Holland: Amsterdam
     
     
 ## April
@@ -1182,7 +1182,7 @@ nothing
 ### Combat
 - Trivial Field Combat in Narva: FR(A) vs RU(D)
 	- setup: FR: 73 - RU: 4I
-    	- RU eleminated
+	- RU eleminated
 	- losses: FR 1I - RU: 4I
 	- FR: +2PP (incl. Napoleon)
 	- RU: -1PP
@@ -1299,7 +1299,7 @@ nothing
 ## Economy Phase
 
 **captured capital**
-	- RU: -1PP 
+- RU: -1PP 
 
 **Manipulation**
 
