@@ -638,7 +638,7 @@ nothing really, only moving
 ## December
 ### Political Phase
 - Unconditional Surrender: Sp against FR
-	- SP (-8PP)
+    - SP (-8PP)
     - FR (+7PP)
     	- Money 2 * 2/3
         - Marriage
@@ -647,14 +647,14 @@ nothing really, only moving
 - Turkey declares Sicily a free state
 
 ## Economy Phase
-- Manipulation
-	- RU (+1PP -8MP)
+**Manipulation**
+    - RU (+1PP -8MP)
     - TK (+1PP -9$)
     - PR (+1PP -11$)
     - FR (+1PP -9MP)
     - AU (+1PP -17$)
-- Ship Building
-	- TK: Constantinopel
+**Ship Building**
+    - TK: Constantinopel
     - Portugal (Lisboa)
     
 
@@ -970,9 +970,9 @@ nothing
 
 ### Combat
 - Danzig: PR+FR(A) vs GB+Swe(D)
-	- setup GB+Swe: 17I 4C (21; 3.7)
+    - setup GB+Swe: 17I 4C (21; 3.7)
     - setup PR+FR: 7G 46I 2M 11C (66; 3.7)
-	- echelon vs cordon => PR+FR breaks
+    - echelon vs cordon => PR+FR breaks
     - losses: PR (1I 2M 1C) FR (4I) - GB (3I) Swe (6I)
     - GB: +3PP
     - RU: +3PP
@@ -1004,16 +1004,16 @@ nothing
 	- setup AU:
     - setup TK:     
 - Siege in Karlsburg: TK(A) vs AU(D)
-	- breach;
+    - breach;
     - TK: +1PP
 - Siege in Temechva: TK(A) vs AU(D)
-	- breach
+    - breach
     - TK: +1PP
 - Siege in Bologna: TK(A) vs AU(D)
-	- breach
+    - breach
     - no PP
 - Berlin: GB+Swe (A) vs PR(D)
-	- assault vs cordon
+    - assault vs cordon
     - echelon vs cordon
     - escalated assault vs cordon
     => no break after 3 days
@@ -1026,14 +1026,14 @@ nothing
 ### Economy Phase
 
 **Manipulation**
-	- SP (-5MP +1PP)
+    - SP (-5MP +1PP)
     - TK (-5MP +1PP)
     - FR (-9MP +1PP)
     - GB (-5MP +1PP)
  
 **Ceding**
-	- Rhodos & Corsica back to Turkey
-	- TK: +2PP
+    - Rhodos & Corsica back to Turkey
+    - TK: +2PP
     - SP: -2PP
     
 # 1808
@@ -1095,40 +1095,39 @@ nothing
 
 ### Combat
 - Siege in Hamburg: PR(A) vs Den(D)
-	- setup: 10I 1C - PR 12I 2M 3C
+    - setup: 10I 1C - PR 12I 2M 3C
     - losses: PR(-1M)
     - PR: +1PP
-    
-- Danzig: PR+FR(A) vs GB+Swe(D)    
-	- setup: GB+Swe 16I (16; 3.8) - PR+FR: 7G 41I 2M 10C (61; 3.8)
+- Danzig: PR+FR(A) vs GB+Swe(D)
+    - setup: GB+Swe 16I (16; 3.8) - PR+FR: 7G 41I 2M 10C (61; 3.8)
     - escalated assault vs cordon => GB+Swe eleminated
     - PR: +1PP
     - FR: +1PP
     - RU: -1PP
     - GB: -1PP
 - Ancona: AU(A) vs TK+SP(D)
-	- setup TK+SP (32; 2.8) - AU (37; 3.1)
+    - setup TK+SP (32; 2.8) - AU (37; 3.1)
     - assault vs outflank => both break
     - losses AU(-15) TK(-6) SP(-2)
     - no PP
 - Siege in Schabacz: AU(A) vs TK(D)
-	- breach; TK eleminated
+    - breach; TK eleminated
     - AU: +1PP
 - Siege in Narva: RU(A) vs PR(D)
-	- breach; PR surrenders
+    - breach; PR surrenders
 - Siege in Kronstadt: TK(A) vs AU(D)
-	- breach; AU eleminated
+    - breach; AU eleminated
     - TK: +1PP
 - Siege in Peterwardein: TK(A) vs AU(D)
-	- breach; AU surrenders
+    - breach; AU surrenders
     - TK: +1PP
 - Siege in Eszek: TK(A) vs AU(D)
-	- breach; AU eleminated
+    - breach; AU eleminated
     - TK: +1PP
 - Siege in Anacona: TK(A) vs AU(D)
-	- no breach
+    - no breach
 - Schabacz: TK(A) vs AU(D)
-	- setup: TK() - AU(22; 3.1)
+    - setup: TK() - AU(22; 3.1)
     - escalated assault vs withdraw => AU breaks
     - losses: AU 20I2C -  TK 1I
     - TK: +1PP
@@ -1141,40 +1140,40 @@ nothing
 
 ### Political Phase
 **Combined Movement**
-FR- PR
+- FR - PR
 
 ### Combat
 - Siege in Petawadein: TK(A) vs AU(D)
-	- no breach
+    - no breach
 - Siege in Kronstadt: TK(A) vs AU(D)
-	- no breach
+    - no breach
 - Field combat in Temesva: TK(A) vs AU(D)
-	- outflank vs outflank
+    - outflank vs outflank
     - setup: TK: 42I 6C 18FI 8FC 16I(AG) 4C (96; 2,6) - AU: 10G 30I 5C (45; 3,6)
     - losses:TK(7I3C) - AU(5I)
     - TK: -3PP
-	- AU: +3PP 
+    - AU: +3PP 
 - Field combat in Peterwardein: AU(A) vs TK(D)
-	- probe vs withdraw
+    - probe vs withdraw
     - no PP
 - Siege in Vilna: HOL(FR:A) vs AU(D)
 - Siege in Lemberg: SP(A) vs AU(D)
-	- breach
+    - breach
     - no PP
 
 	
 ## Economy Phase
 
-- Manipulation
+**Manipulation**
 	- TK (+1PP -5MP)
 	- FR (+1PP -9MP)
 	- AU (-2PP +5MP+15$)
 	- SP (+1PP -5MP)
     
     
-- Ship Building
+**Ship Building**
 	- Sicily: Palermo
-    - Holland: Amsterdam
+    	- Holland: Amsterdam
     
     
 ## April
@@ -1183,34 +1182,30 @@ FR- PR
 ### Combat
 - Trivial Field Combat in Narva: FR(A) vs RU(D)
 	- setup: FR: 73 - RU: 4I
-    - RU eleminated
-    - losses: FR 1I - RU: 4I
+    	- RU eleminated
+	- losses: FR 1I - RU: 4I
 	- FR: +2PP (incl. Napoleon)
-    - RU: -1PP
+	- RU: -1PP
 - Field Combat in Petawadein: TK(A) vs AU(D)
 	- strategy: outflank - cordon
-    - setup: TK: 42I 16C 48I 8C (114; 2,5) - AU: 25I 10Gr 5C(40; 3,6)
-    - losses: 7I2C - 22I
-    - 
-    - PP: -3 +3
+	- setup: TK: 42I 16C 48I 8C (114; 2,5) - AU: 25I 10Gr 5C(40; 3,6)
+	- losses: 7I2C - 22I
+	- PP: -3 +3
 - Siege in Klausenburg: TK(A) vs AU(D)
 	- breach
 - Siege in Lublin: SP(A) vs AU(D)
 	- breach: Sp breaks
-    - losses: -2I -2I
-    - no PP
+	- losses: -2I -2I
+	- no PP
 - Siege in Ancona: SP(A) vs AU(D)
 	- breach: AU surrenders
-    - PP: +1 -1
+	- PP: +1 -1
     
 ## May
 ### Political Phase
 **Combined Movement**
 - GB - RU - SP
 - FR - PR
-
-**Peace
-- RU offers informal peace to PR: PR denies
 
 ### Combat
 - Siege in Esczek: TK(A) vs AU(D)
@@ -1225,12 +1220,12 @@ FR- PR
     - no PP
 - Field Combat in Amsterdam: GB+RU+Swe(A) vs FR(D)
 	- strategy: escalated assault - defend
-    - setup: 20I 3C (23; 4,0) - 10I + 10I + 8I1C (29; 3,5)
-    - losses: 5I - 3I + 4I + 2I1C 
-    - PP: -1 + -1 | +1
+   	- setup: 10I + 10I + 8I1C (29; 3,5) - 20I 3C (23; 4,0)
+   	- losses: 3I + 4I + 2I1C - 5I 
+   	- PP: -1 + -1 | +1
 - Siege in  Lublin: SP(A) vs AU(D)
 	- breach: eleminated
-    - no PP
+	- no PP
 
 ## June
 
@@ -1303,7 +1298,7 @@ FR- PR
     
 ## Economy Phase
 
-- captured capital
+**captured capital**
 	- RU: -1PP 
 
 **Manipulation**
@@ -1316,12 +1311,22 @@ FR- PR
 
 ## July
 ### Political Phase
+**Peace**
+- Conditional Surrender
+	- AU: -5PP
+    	- TK: +3PP
+        - SP: +3PP
+- Informal Peace
+	- PR - GB
+
 **Combined Movement**
 - SP -TK
 
 **Ship Building**
+- GB: London 
 - HOL: Amsterdam
-- SIC: 
+- Sic: Palermo
+- TK: Istanbul 
 
 ### Combat
 - Siege in Gerona: FR(A) vs GB(D)
@@ -1343,29 +1348,22 @@ FR- PR
 ### Political Phase
 **Peace**
 - Conditional Surrender
-	- AU: -5PP
-    	- TK: +3PP
-        - SP: +3PP
-- Informal Peace
-	- PR - GB
-
-## September
-**Peace**
-- Conditional Surrender
     - RU: -5PP
     	- PR: +3PP +2 (marriage)
         - FR: +3PP
         
+## September
+
+## Economy Phase
+**Located in Instability Zone**
+- RU:
+	- half income
+
 **Ship Building**
 - GB: London 
 - HOL: Amsterdam
 - Sic: Palermo
 - TK: Istanbul
-
-## Economy Phase
-- Located in Instability Zone
-	- RU:
-    	- half income
 
 **Manipulation**
 - TK (+2PP -15$-6MP)
@@ -1384,8 +1382,7 @@ FR- PR
 ## Economy Phase
 
 **Victory Points**
-- GB: -2VP
-	-FR: -2VP
+- GB & FR: -2VP
 
 **Manipulation**
 - TK (+2PP -15$-6MP)
@@ -1412,8 +1409,7 @@ FR- PR
 ## Economy Phase
 
 **Victory Points**
-- GB: -2VP
-	-FR: -2VP
+- GB & FR: -2VP
 
 **Manipulation**
 - SP (+1PP -11$)
